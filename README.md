@@ -31,7 +31,7 @@ This repository contains C programming examples, practice problems, and basic pr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sahilpal1/C_language.git
+   git clone https://github.com/_______/C_language.git
    ```
 
 2. Navigate to the project directory:
